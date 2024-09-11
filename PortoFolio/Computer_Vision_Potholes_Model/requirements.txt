@@ -1,0 +1,9 @@
+
+roboflow
+inference
+os
+glob
+IPython
+ultralytics==8.0.0
+cv2
+google-colab
